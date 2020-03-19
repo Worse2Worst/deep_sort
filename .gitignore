@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.jpg
+*.mp4
+*.idea*
+/MOT16/*
+/resources/*
